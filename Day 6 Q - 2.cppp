@@ -21,4 +21,5 @@ int main() {
         printf("Smallest = %d\n", c);
 
     return 0;
+
 }
